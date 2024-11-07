@@ -1,0 +1,12 @@
+# Flask
+# tensorflow
+# tensorflow==2.18.0
+# opencv-python
+# numpy
+# matplotlib
+# tflite-runtime @ file://./tflite_runtime-2.14.0-cp310-cp310-manylinux2014_x86_64.whl
+
+
+Flask
+numpy<2
+Pillow

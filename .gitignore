@@ -1,0 +1,25 @@
+# 忽略 Python 編譯文件
+*.pyc
+__pycache__/
+
+# 忽略虛擬環境
+venv/
+env/
+
+# 忽略日誌文件
+*.log
+
+# 忽略上傳文件 
+testImage/
+access_token.txt
+flaskBackendApp.py
+facial_original_code.py
+trained_model.keras
+convertToliteModel.py
+test.py
+api/
+test_docker_vercel.json
+vercel.json
+
+# 忽略配置文件
+config.yaml
